@@ -3,7 +3,6 @@ body {
     font-family: 'Inter', 'Roboto', Arial, sans-serif;
 }
 
-/* HEADER */
 .logo {
     height: 120px;
     width: auto;
@@ -38,7 +37,6 @@ nav a:hover {
     transition: 0.3s;
 }
 
-/* HERO */
 .hero {
     position: relative;
     height: 450px;
@@ -72,7 +70,6 @@ nav a:hover {
     text-shadow: 2px 2px 5px black;
 }
 
-/* CONTACT FORM */
 .info-section {
     display: flex;
     justify-content: center;
@@ -126,7 +123,6 @@ nav a:hover {
     border: 2px solid #ffc425;
 }
 
-/* BUTTON */
 .button {
     background-color: #ffc425;
     padding: 12px 25px;
@@ -145,7 +141,6 @@ nav a:hover {
     transition: 0.3s;
 }
 
-/* GALLERY */
 .gallery {
     text-align: center;
     padding: 40px;
@@ -166,7 +161,6 @@ nav a:hover {
     border-radius: 8px;
 }
 
-/* FOOTER */
 footer {
     background-color: #003767;
     color: #ffffff;
